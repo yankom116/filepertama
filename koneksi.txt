@@ -1,0 +1,51 @@
+surabaya=33 to 32
+probolinggo kab=33
+pasuruan kab=33
+lumajang=34
+bondowoso=34 to 32
+situbondo=34
+jember=34 to 32
+banyuwangi=33
+kediri kota=33 to 32
+kediri kab=33
+blitar kab=34
+tulungagung=33 to 32
+nganjuk=34
+trenggalek=34
+madiun kota=34
+madiun kab=34
+ngawi=33 to 32
+
+magetan=33 to 32
+ponorogo=34 to 32
+pacitan=34 to 32
+bojonegoro=33
+tuban=34
+lamongan=34 to 32
+mojokerto kab=33
+jombang=34 to 32
+pamekasan=42
+bangkalan=33 to 32
+sampang=33 to 32
+sumenep=33
+KP3=33
+probolinggo kota=34
+pasuruan kota=34 to 32
+blitar kota=33 to 32
+mojokerto kota=34
+sidoarjo=42
+gresik =34
+malang kota=33 to 32
+malang kab=42
+batu=34
+
+33 to 32 =6
+34 to 32 =5
+jml 
+32=
+33=17
+34=19
+42=3
+
+
+
